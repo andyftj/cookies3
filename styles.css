@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Cookie Business</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Holidays</a></li>
+                <li><a href="#">Special Occasions</a></li>
+                <li><a href="#">Info Request</a></li>
+                <li><a href="#">Orders</a></li>
+            </ul>
+        </nav>
+        <div class="banner">
+            <h1>Welcome to My Cookie World!</h1>
+        </div>
+    </header>
+
+    <section class="categories">
+        <div class="category">
+            <img src="cookie1.jpg" alt="Holiday Cookies">
+            <h3>Holidays</h3>
+        </div>
+        <div class="category">
+            <img src="cookie2.jpg" alt="Special Occasion Cookies">
+            <h3>Special Occasions</h3>
+        </div>
+        <div class="category">
+            <img src="cookie3.jpg" alt="Everyday Cookies">
+            <h3>Everyday Treats</h3>
+        </div>
+        <div class="category">
+            <img src="cookie4.jpg" alt="Custom Cookies">
+            <h3>Custom Orders</h3>
+        </div>
+    </section>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <img src="profile.jpg" alt="About Me">
+        <p>Hi! I'm [Your Name], and I love baking cookies...</p>
+    </section>
+
+    <footer>
+        <p>Follow me on:</p>
+        <a href="https://facebook.com">Facebook</a> |
+        <a href="https://instagram.com">Instagram</a> |
+        <a href="https://twitter.com">Twitter</a>
+    </footer>
+</body>
+</html>
